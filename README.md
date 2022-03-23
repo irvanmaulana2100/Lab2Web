@@ -11,8 +11,15 @@ Persiapan membuka VSCode dan Browser.
 ![open vscode](https://user-images.githubusercontent.com/101796034/159760326-f0c06cd1-6009-4775-a1a2-7453119d2dc8.jpg)
 
 
-Kemudian buat file baru dengan nama lab2_css_dasar.html dan tambahkan tag dasar dokumen html.
+Kemudian buat file baru dengan nama lab2_css_dasar.html dan tambahkan tag dasar dokumen HTML.
 
 Ini tampilannya.
+
+![css dasar](https://user-images.githubusercontent.com/101796034/159764564-9c04cb02-0faf-4d3b-afcc-0e3f4eb44bff.jpg)
+
+
+Lalu selanjutnya, buka file tersebut pada web browser misalnya Mozilla Forefox.
+
+
 
 
