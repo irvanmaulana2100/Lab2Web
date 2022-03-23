@@ -20,6 +20,11 @@ Ini tampilannya.
 
 Lalu selanjutnya, buka file tersebut pada web browser misalnya Mozilla Forefox.
 
+![css dasar moz](https://user-images.githubusercontent.com/101796034/159765813-6e3208f2-3253-423e-9c4a-02a5e64f3500.jpg)
+
+
+
+
 
 
 
