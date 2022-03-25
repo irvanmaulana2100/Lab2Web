@@ -70,7 +70,7 @@ Kemudian tambahkan tag <link> untuk merujuk file CSS yang sudah dibuat pada bagi
   
 5. Tambahkan CSS Selector dengan menggunakan ID dan Class Selector pada file style_eksternal.css dengan kode berikut.
   
-  xxx
+  ![css selector](https://user-images.githubusercontent.com/101796034/160169713-30fa953b-7f70-496e-be00-b2e372c92990.jpg)
   
   
   Simpan kembali dan refresh pada browser untuk melihat hasilnya
