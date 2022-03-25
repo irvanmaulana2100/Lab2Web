@@ -50,7 +50,17 @@ Selanjutnya simpan perubahan dan lakukan refresh pada browser untuk melihat hasi
 
 Simpan kembali dan refresh kembali untuk melihat perubahannya.
   
-xxx
+![hasil inline css](https://user-images.githubusercontent.com/101796034/160161455-bb759d98-907b-49c8-8390-e40d4b003b59.jpg)
+
+  
+4. Buat file baru CSS eksternal dengan nama style_eksternal.css.
   
   
-4.   
+
+  
+  
+  
+  
+  
+  
+  
