@@ -40,5 +40,17 @@ Setelah itu buka web browser untuk melihat hasilnya.
 
 Selanjutnya simpan perubahan dan lakukan refresh pada browser untuk melihat hasilnya.
 
+![hasil deklarasi css internal](https://user-images.githubusercontent.com/101796034/160160279-0fc5eeb7-67dd-43a3-b26b-3ff3406553e7.jpg)
 
 
+3. Kemudian tambahkan deklarasi inline CSS pada tag <p>.
+  
+xxx
+
+
+Simpan kembali dan refresh kembali untuk melihat perubahannya.
+  
+xxx
+  
+  
+4.   
