@@ -73,13 +73,14 @@ Kemudian tambahkan tag <link> untuk merujuk file CSS yang sudah dibuat pada bagi
   ![css selector](https://user-images.githubusercontent.com/101796034/160169713-30fa953b-7f70-496e-be00-b2e372c92990.jpg)
   
   
-  Simpan kembali dan refresh pada browser untuk melihat hasilnya
+  Simpan kembali dan refresh pada browser untuk melihat hasilnya.
 
-  xxx
+  ![hasil css selector](https://user-images.githubusercontent.com/101796034/160170089-4a6c65f5-bf52-44e9-8fe2-1b8f4c99c802.jpg)
   
   
-  
-  
+  # TUGAS
+  # 1. Apa perbedaan pendeklarasian CSS element h1 {...} dengan #intro h1 {...}? Berikan penjelasannya!
+  Pendeklarasian CSS element h1 bertujuan untuk mengubah tampilan seluruh element yang memiliki tag h1, sedangkan #intro h1 mengubah tampilan element h1 tetapi hanya yang memiliki id #intro.
   
   
   
