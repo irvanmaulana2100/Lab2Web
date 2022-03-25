@@ -45,7 +45,7 @@ Selanjutnya simpan perubahan dan lakukan refresh pada browser untuk melihat hasi
 
 3. Kemudian tambahkan deklarasi inline CSS pada tag <p>.
   
-xxx
+![inline css](https://user-images.githubusercontent.com/101796034/160161197-b0927995-87d0-43f1-a513-ed47f04ddc0b.jpg)
 
 
 Simpan kembali dan refresh kembali untuk melihat perubahannya.
