@@ -58,9 +58,13 @@ Simpan kembali dan refresh kembali untuk melihat perubahannya.
   ![css eksternal](https://user-images.githubusercontent.com/101796034/160162441-0fd46e74-58cc-4fdc-a331-e0de5f780ef3.jpg)
 
 
-Kemudian tambahkan tag <link> untuk merujuk file CSS yang sudah dibuat pada bagian <head>.
+Kemudian tambahkan tag <link> untuk merujuk file CSS yang sudah dibuat pada bagian head.
+  
+  ![tag link css eksternal](https://user-images.githubusercontent.com/101796034/160163151-aca012f2-a81b-4788-8efd-bf1a2b7debce.jpg)
   
   
+  Lalu refresh kembali browser untuk melihat perubahannya.
+
   
   
   
