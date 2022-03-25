@@ -65,6 +65,22 @@ Kemudian tambahkan tag <link> untuk merujuk file CSS yang sudah dibuat pada bagi
   
   Lalu refresh kembali browser untuk melihat perubahannya.
 
+  ![hasil css eksternal](https://user-images.githubusercontent.com/101796034/160166770-761a0c8e-7e5a-4068-9f63-30e8c71f42d8.jpg)
+
+  
+5. Tambahkan CSS Selector dengan menggunakan ID dan Class Selector pada file style_eksternal.css dengan kode berikut.
+  
+  xxx
+  
+  
+  Simpan kembali dan refresh pada browser untuk melihat hasilnya
+
+  xxx
+  
+  
+  
+  
+  
   
   
   
