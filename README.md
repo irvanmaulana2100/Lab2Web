@@ -30,6 +30,11 @@ Lalu selanjutnya, buka file tersebut pada web browser misalnya Mozilla Forefox.
 
 Setelah itu buka web browser untuk melihat hasilnya.
 
+![hasil css 1](https://user-images.githubusercontent.com/101796034/160159262-54409561-e0b7-4288-afed-e54d908612c1.jpg)
+
+
+2. Tambahkan deklarasi CSS internal pada bagian head dokumen.
+
 
 
 
