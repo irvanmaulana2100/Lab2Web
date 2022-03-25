@@ -35,7 +35,10 @@ Setelah itu buka web browser untuk melihat hasilnya.
 
 2. Tambahkan deklarasi CSS internal pada bagian head dokumen.
 
+![deklarasi css internal](https://user-images.githubusercontent.com/101796034/160159821-e69cf2ab-e7d9-43cd-b962-438d367927de.jpg)
 
+
+Selanjutnya simpan perubahan dan lakukan refresh pada browser untuk melihat hasilnya.
 
 
 
