@@ -25,7 +25,10 @@ Lalu selanjutnya, buka file tersebut pada web browser misalnya Mozilla Forefox.
 
 1. Buat dokumen HTML seperti berikut.
 
+![css 1](https://user-images.githubusercontent.com/101796034/160158765-3d38e345-bd78-43c2-91d3-1d5e9009ccf1.jpg)
 
+
+Setelah itu buka web browser untuk melihat hasilnya.
 
 
 
