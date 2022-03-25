@@ -55,8 +55,11 @@ Simpan kembali dan refresh kembali untuk melihat perubahannya.
   
 4. Buat file baru CSS eksternal dengan nama style_eksternal.css.
   
-  
+  ![css eksternal](https://user-images.githubusercontent.com/101796034/160162441-0fd46e74-58cc-4fdc-a331-e0de5f780ef3.jpg)
 
+
+Kemudian tambahkan tag <link> untuk merujuk file CSS yang sudah dibuat pada bagian <head>.
+  
   
   
   
